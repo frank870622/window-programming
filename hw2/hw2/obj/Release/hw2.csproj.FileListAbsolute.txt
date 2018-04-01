@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\大學\視窗程式設計\hw\hw2\hw2\bin\Release\hw2.exe.config
+C:\Users\Owner\Desktop\大學\視窗程式設計\hw\hw2\hw2\bin\Release\hw2.exe
+C:\Users\Owner\Desktop\大學\視窗程式設計\hw\hw2\hw2\bin\Release\hw2.pdb
+C:\Users\Owner\Desktop\大學\視窗程式設計\hw\hw2\hw2\obj\Release\hw2.Form1.resources
+C:\Users\Owner\Desktop\大學\視窗程式設計\hw\hw2\hw2\obj\Release\hw2.Properties.Resources.resources
+C:\Users\Owner\Desktop\大學\視窗程式設計\hw\hw2\hw2\obj\Release\hw2.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\大學\視窗程式設計\hw\hw2\hw2\obj\Release\hw2.exe
+C:\Users\Owner\Desktop\大學\視窗程式設計\hw\hw2\hw2\obj\Release\hw2.pdb
