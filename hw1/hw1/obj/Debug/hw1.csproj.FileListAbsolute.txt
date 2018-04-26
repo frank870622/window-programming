@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\大學\視窗程式設計\hw\hw1\hw1\bin\Debug\hw1.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\hw\hw1\hw1\bin\Debug\hw1.exe
+C:\Users\user\Desktop\大學\視窗程式設計\hw\hw1\hw1\bin\Debug\hw1.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\hw\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大學\視窗程式設計\hw\hw1\hw1\obj\Debug\hw1.exe
+C:\Users\user\Desktop\大學\視窗程式設計\hw\hw1\hw1\obj\Debug\hw1.pdb
