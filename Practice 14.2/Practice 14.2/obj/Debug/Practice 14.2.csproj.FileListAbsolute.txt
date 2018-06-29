@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\bin\Debug\Practice 14.2.exe.config
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\bin\Debug\Database1.mdf
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\bin\Debug\Database1_log.ldf
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\bin\Debug\Practice 14.2.exe
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\bin\Debug\Practice 14.2.pdb
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\obj\Debug\Practice 14.2.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\obj\Debug\Practice_14._2.Form1.resources
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\obj\Debug\Practice_14._2.Properties.Resources.resources
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\obj\Debug\Practice 14.2.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\obj\Debug\Practice 14.2.exe
+C:\Users\Owner\Desktop\大學\視窗程式設計\practice\C#\Practice 14.2\Practice 14.2\obj\Debug\Practice 14.2.pdb
