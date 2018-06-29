@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\bin\Debug\Pratice 11.2.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\bin\Debug\Pratice 11.2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\bin\Debug\Pratice 11.2.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\obj\Debug\Pratice 11.2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\obj\Debug\Pratice_11._2.Form1.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\obj\Debug\Pratice_11._2.Properties.Resources.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\obj\Debug\Pratice 11.2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\obj\Debug\Pratice 11.2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\obj\Debug\Pratice 11.2.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Pratice 11.2\Pratice 11.2\obj\Debug\Pratice_11._2.Form2.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 11.2\Pratice 11.2\bin\Debug\Pratice 11.2.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 11.2\Pratice 11.2\obj\Debug\Pratice 11.2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 11.2\Pratice 11.2\obj\Debug\Pratice 11.2.pdb
