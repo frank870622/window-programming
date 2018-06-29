@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\bin\Debug\Pratice 8.1.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\bin\Debug\Pratice 8.1.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\bin\Debug\Pratice 8.1.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\obj\Debug\Pratice 8.1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\obj\Debug\Pratice_8._1.Form1.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\obj\Debug\Pratice_8._1.Properties.Resources.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\obj\Debug\Pratice 8.1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\obj\Debug\Pratice 8.1.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Pratice 8.1\Pratice 8.1\obj\Debug\Pratice 8.1.pdb

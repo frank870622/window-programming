@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice4.2\Practice4.2\bin\Debug\Practice4.2.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice4.2\Practice4.2\bin\Debug\Practice4.2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice4.2\Practice4.2\bin\Debug\Practice4.2.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice4.2\Practice4.2\obj\Debug\Practice4.2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice4.2\Practice4.2\obj\Debug\Practice4.2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice4.2\Practice4.2\obj\Debug\Practice4.2.pdb
