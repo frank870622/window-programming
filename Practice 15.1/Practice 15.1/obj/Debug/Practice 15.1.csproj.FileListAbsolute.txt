@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\bin\Debug\Practice 15.1.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\bin\Debug\Practice 15.1.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\bin\Debug\Practice 15.1.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\obj\Debug\Practice 15.1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\obj\Debug\Practice_15._1.Properties.Resources.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\obj\Debug\Practice 15.1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\obj\Debug\Practice 15.1.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\obj\Debug\Practice 15.1.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\obj\Debug\Practice_15._1.Form1.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\bin\Debug\Hospital.mdf
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\C#\Practice 15.1\Practice 15.1\bin\Debug\Hospital_log.ldf
