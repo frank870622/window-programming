@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\bin\Debug\pratice6.4.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\bin\Debug\pratice6.4.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\bin\Debug\pratice6.4.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\obj\Debug\pratice6.4.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\obj\Debug\pratice6._4.Form1.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\obj\Debug\pratice6._4.Properties.Resources.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\obj\Debug\pratice6.4.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\obj\Debug\pratice6.4.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\pratice6.4\pratice6.4\obj\Debug\pratice6.4.pdb

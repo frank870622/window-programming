@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\bin\Debug\hw2.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\bin\Debug\hw2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\bin\Debug\hw2.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\obj\Debug\Practice 6.3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\obj\Debug\hw2.Form1.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\obj\Debug\hw2.Properties.Resources.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\obj\Debug\Practice 6.3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\obj\Debug\hw2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\obj\Debug\hw2.pdb

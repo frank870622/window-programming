@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\bin\Debug\hw2.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\obj\Debug\hw2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 6.3\hw2\obj\Debug\hw2.pdb

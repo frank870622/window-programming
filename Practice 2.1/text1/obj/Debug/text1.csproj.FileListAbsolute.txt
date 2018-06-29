@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\text1\text1\bin\Debug\text1.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\text1\text1\bin\Debug\text1.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\text1\text1\bin\Debug\text1.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\text1\text1\obj\Debug\text1.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\text1\text1\obj\Debug\text1.pdb
