@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\bin\Debug\Practice 7.2.exe.config
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\bin\Debug\Practice 7.2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\bin\Debug\Practice 7.2.pdb
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\obj\Debug\Practice 7.2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\obj\Debug\Practice_7._2.Form1.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\obj\Debug\Practice_7._2.Properties.Resources.resources
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\obj\Debug\Practice 7.2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\obj\Debug\Practice 7.2.exe
+C:\Users\user\Desktop\大學\視窗程式設計\課堂練習\Practice 7.2\Practice 7.2\obj\Debug\Practice 7.2.pdb
